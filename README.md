@@ -1,3 +1,3 @@
 hello world
 
-git 教程
+git tutorial
